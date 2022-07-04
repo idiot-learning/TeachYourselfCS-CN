@@ -99,7 +99,7 @@
 
 为了追求简洁和紧凑，这本书牺牲了内容上的深度。尤其值得注意的是，流水线和存储层次结构是现代计算机体系结构中极其重要的两个概念，然而这本书对此几乎毫无涉及。
 
-当你掌握了 Nand2Tetris 的内容后，我们推荐要么回到《深入理解计算机系统》，或者考虑 Patterson 和 Hennessy 二人所著的 [《计算机组成与设计》](https://book.douban.com/subject/26604008/)，一本优秀的经典著作。这本书中的不同章节重要程度不一，因此我们建议根据 Berkeley 的 [CS61C 课程](http://inst.eecs.berkeley.edu/~cs61c/sp15/) 「计算机体系结构中的伟大思想」来着重阅读一些章节。这门课的笔记和实验在网络上可以免费获得，并且在 [互联网档案](https://archive.org/details/ucberkeley-webcast-PL-XXv-cvA_iCl2-D-FS5mk0jFF6cYSJs_) 中有这门课程的过往资料。
+当你掌握了 Nand2Tetris 的内容后，我们推荐要么回到《深入理解计算机系统》，或者考虑 Patterson 和 Hennessy 二人所著的 [《计算机组成与设计》](https://book.douban.com/subject/26604008/)，一本优秀的经典著作。这本书中的不同章节重要程度不一，因此我们建议根据 Berkeley 的 [CS61C 课程](http://inst.eecs.berkeley.edu/~cs61c/sp22/) 「计算机体系结构中的伟大思想」来着重阅读一些章节。这门课的笔记和实验在网络上可以免费获得，并且在 [互联网档案](https://archive.org/details/ucberkeley-webcast-PL-XXv-cvA_iCl2-D-FS5mk0jFF6cYSJs_) 中有这门课程的过往资料。
 
 [![深入理解计算机系统](https://user-images.githubusercontent.com/20510068/82109944-12270d00-976d-11ea-85a9-774e4f762ec9.png)](https://book.douban.com/subject/26912767/) [![计算机系统要素](https://user-images.githubusercontent.com/20233656/66758695-60231c00-eed1-11e9-8422-a4acfb10a390.jpg)](http://www.nand2tetris.org)
 
